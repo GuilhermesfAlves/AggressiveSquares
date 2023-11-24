@@ -1,4 +1,4 @@
-Desafio baseado no jogo desenvolvido em sala de aula(Programação 2): AggressiveSquares
+Desafio baseado no jogo desenvolvido em sala de aula(Programação 2): AggressiveSquares\n
   AggressiveSquares é um jogo simples de 2 quadrados no qual um jogador efetua disparos contra o outro, ganha quem matar o oponente primeiro
   O desafio era dar alguma implementação ao jogo, em qualquer âmbito que fosse.
 
