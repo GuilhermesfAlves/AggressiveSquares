@@ -1,9 +1,9 @@
-Desafio baseado no jogo desenvolvido em sala de aula(Programação 2): AggressiveSquares.
+# Desafio baseado no jogo desenvolvido em sala de aula(Programação 2): AggressiveSquares.
 
   AggressiveSquares é um jogo simples de 2 quadrados no qual um jogador efetua disparos contra o outro, ganha quem matar o oponente primeiro.
   O desafio era dar alguma implementação ao jogo, em qualquer âmbito que fosse.
 
-Alterações AggressiveSquares:
+## Alterações AggressiveSquares:
 
 -   Segreguei as pastas de arquivos *.c em source, *.h em headers e *.o em objects para melhor organização
 -   Criei um Makefile.
